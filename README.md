@@ -1,3 +1,5 @@
+![logo](https://github.com/XyedAli/XyedAli/blob/main/Capture.PNG)
+
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Software Engineer | Blockchain & AI Enthusiast</h3>
 
