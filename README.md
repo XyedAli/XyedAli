@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyedali&label=Profile%20views&color=0e75b6&style=flat" alt="xyedali" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3aWDIxM](https://bit.ly/3aWDIxM)
+- 👨‍💻 Checkout my portfolio:  [https://bit.ly/3aWDIxM](https://bit.ly/3aWDIxM)
 
 - 💬 Intro: **As a Software engineer with 5+ years of experience, I have a proven track record of delivering high-quality web applications. I possess strong proficiency in MERN Stack, and Laravel as well as expertise in Redux, Typescript, and Firebase. My expertise includes designing scalable architecture, implementing complex business logic, and optimizing application performance. I have collaborated with cross-functional teams to identify requirements, develop specifications, and implement solutions that meet project timelines and budgets. I am highly skilled in conducting code reviews, mentoring junior developers, and providing technical guidance to ensure adherence to industry best practices and standards. With a passion for clean code and cutting-edge technology, I am always eager to take on new challenges and exceed expectations.**
 
